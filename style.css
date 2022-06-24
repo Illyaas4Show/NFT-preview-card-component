@@ -29,6 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 2rem auto;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.356);
 }
 
 img {
@@ -40,7 +41,7 @@ img {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    transform: translate(-50%, -50%);
 }
 
 .main-img {
@@ -138,5 +139,5 @@ span:hover {
     }
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; color: grey;}
 .attribution a { color: hsl(228, 45%, 44%); }
