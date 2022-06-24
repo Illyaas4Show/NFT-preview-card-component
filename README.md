@@ -46,7 +46,7 @@ I learn the importance of using the right styling on the right parent element in
 
 ### Useful resources
 
-- [tsbsankara](https://www.youtube.com/watch?v=9bGbykdR4T8) - 
+- [tsbsankara on youtube](https://www.youtube.com/watch?v=9bGbykdR4T8)
 
 ## Author
 - [GitHub](https://github.com/Illyaas4Show/)
