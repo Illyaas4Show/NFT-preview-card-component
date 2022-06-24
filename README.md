@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](./qr-code-component-main/design/QR-code-component-site-screenshot.png)
+![Design preview for the QR code component coding challenge](./design/Screen-Shot.png)
 
 This is my solution for the challenge.
 
