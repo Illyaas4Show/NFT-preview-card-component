@@ -21,6 +21,13 @@ body {
     background-color: var(--mainBG);
 }
 
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
 .container {
     background-color: var(--cardBG);
     padding: 1.5rem;
